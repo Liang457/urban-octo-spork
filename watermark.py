@@ -49,4 +49,3 @@ draw.text(position, 'by cool-gk', (0, 0, 0, 196), font=font)
 
 img.save(out_path)
 # img.show()
-time.sleep(2)
